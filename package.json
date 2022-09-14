@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/pedropaulo-faria.lwc-l8287wvc-fork-l828bj73",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve W3e5nWdpPK1FV3ZaUGcH --open"
+  }
+}
